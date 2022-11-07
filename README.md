@@ -2,4 +2,4 @@
 
 |  #  | Código | Proyecto |
 | --- | --- | --- |
-|  1  | En proceso | En proceso |
+|  1  | [Tarjetas](https://github.com/megagringa/60proyects_HTML_CSS_JS/tree/main/Tarjetas) | [Proyecto](https://github.com/megagringa/60proyects_HTML_CSS_JS/blob/main/Tarjetas/index.html) |
