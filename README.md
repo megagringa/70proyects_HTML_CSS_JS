@@ -8,4 +8,4 @@
 |  4  | [Busqueda](https://github.com/megagringa/60proyects_HTML_CSS_JS/tree/main/Busqueda)|
 |  5  | [Carga](https://github.com/megagringa/60proyects_HTML_CSS_JS/tree/main/Carga)|
 |  6  | [Caja-scroll](https://github.com/megagringa/60proyects_HTML_CSS_JS/tree/main/Caja-scroll)|
-|  7  | []()|
+|  7  | [SLP](https://github.com/megagringa/60proyects_HTML_CSS_JS/tree/main/SLP)|
