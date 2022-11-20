@@ -15,6 +15,6 @@
 |  11 | [Key](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/key)|
 |  12 | [faq-collapse](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/faq-collapse)|
 |  13 | [random-choice-picker](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/random-choice-picker)|
-|  14 | []()|
+|  14 | [nav-animated](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/nav-animated)|
 |  15 | []()|
 |  16 | []()|
