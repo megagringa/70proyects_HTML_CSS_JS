@@ -23,4 +23,14 @@
 |  19 | [Clock](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/clock)|
 |  20 | [Button](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/Button)|
 |  21 | []()|
+|  22 | []()|
+|  23 | []()|
+|  24 | []()|
+|  25 | []()|
+|  26 | []()|
+|  27 | []()|
+|  28 | []()|
+|  29 | []()|
+|  30 | []()|
+|  31 | []()|
 -----------------------------
