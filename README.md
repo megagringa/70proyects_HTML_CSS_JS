@@ -71,5 +71,5 @@
 |  67 | [breakout-game](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/breakout-game)|
 |  68 | [new-year-countdown](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/new-year-countdown)|
 |  69 | [sortable-list](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/sortable-list)|
-|  70 | []()|
+|  70 | [speak-number-guess](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/speak-number-guess)|
 -----------------------------
