@@ -34,5 +34,5 @@
 |  30 | [auto-text-effect](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/auto-text-effect)|
 |  31 | [password-generator](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/password-generator)|
 |  32 | [good-cheap-fast](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/good-cheap-fast)|
-|  33 | []()|
+|  33 | [notes-app](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/notes-app)|
 -----------------------------
