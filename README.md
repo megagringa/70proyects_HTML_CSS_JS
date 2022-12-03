@@ -49,7 +49,7 @@
 |  45 | [netflix-mobile-navigation](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/netflix-mobile-navigation)|
 |  46 | [quiz-app](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/quiz-app)|
 |  47 | [testimonial-box-switcher](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/testimonial-box-switcher)|
-|  48 | []()|
+|  48 | [random-image-generator](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/random-image-generator)|
 |  49 | []()|
 |  50 | []()|
 -----------------------------
