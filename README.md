@@ -51,5 +51,5 @@
 |  47 | [testimonial-box-switcher](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/testimonial-box-switcher)|
 |  48 | [random-image-generator](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/random-image-generator)|
 |  49 | [todo-list](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/todo-list)|
-|  50 | []()|
+|  50 | [insect-catch-game](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/insect-catch-game)|
 -----------------------------
