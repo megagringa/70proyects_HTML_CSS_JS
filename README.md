@@ -69,7 +69,7 @@
 |  65 | [lyrics-search](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/lyrics-search)|
 |  66 | [relaxer-app](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/relaxer-app)|
 |  67 | [breakout-game](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/breakout-game)|
-|  68 | []()|
+|  68 | [new-year-countdown](https://github.com/megagringa/70proyects_HTML_CSS_JS/tree/main/new-year-countdown)|
 |  69 | []()|
 |  70 | []()|
 -----------------------------
